@@ -1,6 +1,8 @@
 package problems;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 
 /**
  * First occurrence of a character in a string

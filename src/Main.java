@@ -1,4 +1,3 @@
-import bit_wise_operators.BitWiseOperators;
 import numbers_math.*;
 import problems.First_Occurrence_Char;
 import recursions.Recursions;
@@ -20,7 +19,6 @@ public class Main {
         Print.print(GCD.findLargestNumGCMWithEfficientWay(45,15));
         Print.print(GCD.findLargestNumGCMWithEfficientWayInRecursion(15,45));
         Print.print(PrimeNumber.isPrimeNumber(23));
-        Print.print(BitWiseOperators.isOddOrEven(22));
         Recursions.printNumbers(4);
 
         Print.print(First_Occurrence_Char.firstOccurrence("abbag"));
